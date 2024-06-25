@@ -10,7 +10,7 @@
  	
 Maintain the directory  structure to execute the code
 ### The following command to run streamlit app
- *streamlit run *
+ * streamlit run streamlit_stock_dashboard_v1.py
 ### To access  the application 
  * http://localhost:8501/ 
 
