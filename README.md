@@ -3,12 +3,11 @@
 
 ### Software requirements
 	* Python 3.12 (native install)
- 	* streamlit
-        * yfinance
+	* streamlit
+ 	* yfinance
 	* pandas-ta
-        * plotly
- 
-	
+	* plotly
+ 	
 Maintain the directory  structure to execute the code
 ### The following command to run streamlit app
  *streamlit run *
